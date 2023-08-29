@@ -152,6 +152,18 @@ margin: 0 auto;
  }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 /* Dragon ball */
 
 
@@ -177,7 +189,6 @@ background: url(../img/imgd.capa10.png);
 }
 
 
-/* Dragom ball */
 
 .cor-nav-d{
     background-color: black;
@@ -255,4 +266,42 @@ color: #ecf80e;
 
 .bi-telegram{
     color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* One piece */
+
+.nav-one{
+   background-color: rgb(68, 180, 245);
+}
+
+.direitaone{
+   margin-left: auto;
+  
+   
+}
+
+.direitaone a{
+   margin: 0 10px 0 0;
+   border: 2px solid red;
+   color: #000;
+   font-size: 1.6em;
+   border-radius: 2em;
+   background-color: rgba(255, 0, 0, 0.427);
 }
