@@ -1,0 +1,177 @@
+
+#body{
+    /* background-color: rgba(171, 220, 235, 0.547); */
+    background: linear-gradient( rgba(162, 27, 27, 0.83), rgba(14, 14, 209, 0.611));
+}
+
+#body-kyka{
+    background: linear-gradient(  rgba(201, 226, 115, 0.836), rgba(239, 123, 191, 0.649));
+}
+
+
+.ka{
+    color: #fff;
+    font-size: 1.3em;
+    border-bottom: 4px solid #fff;
+}
+
+.cor-nav-k{
+background-color: rgba(218, 119, 167, 0.611);
+}
+
+.card-k.card{
+    background: linear-gradient( rgba(228, 246, 128, 0.83), rgba(218, 119, 167, 0.611));
+    box-shadow: 1px 5px 5px 1px #fff;
+    margin: 5px;
+    
+}
+
+.card-ka.card{
+    background-color: rgba(249, 249, 154, 0.864);
+    border-radius: 2em 0em 2em 0em;
+    box-shadow: 4px 6px 3px 3px #49530b88;
+    margin: 8px;
+    border: 1px solid #fff;
+}
+
+.card-ka img{
+    border-radius: 4em;
+    border: 3px solid #fff;
+
+}
+
+ h2.h2-row{
+    border-bottom: 2px solid #fff;
+    margin-top: 2px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+ }
+   
+
+
+ /* one piece */
+
+ #nav-one.navbar{
+   background-color: rgba(214, 68, 68, 0.689);
+ }
+
+ #block-one img{
+    margin:0 auto;
+    width: 300px;
+    height:200px;
+    margin: 3px;
+    
+
+ }
+
+ #block-one li{
+    display: inline;
+ }
+
+
+ /* Objetos */
+
+ .mover-1{
+    font-size: 5em;
+    padding: 5px 0 0 230px;
+    color: red;
+ }
+
+
+ .mover-2{
+   padding: 0 255px 70px 0 ;
+    font-size: 7em;
+    color: yellow;
+ }
+
+
+ .mover-3{
+    font-size: 5em;
+    color: pink;
+
+ }
+ 
+ .mover-11{
+    font-size: 5em;
+    padding: 5px 0 0 230px;
+    color: fuchsia;
+ }
+
+
+ .mover-22{
+   padding: 0 255px 70px 0 ;
+    font-size: 3em;
+    color:greenyellow;
+ }
+
+
+ .mover-33{
+    font-size: 3em;
+    color:blueviolet;
+    
+ }
+
+ /* foto-kyka */
+ 
+
+ footer{
+    line-height: 100px;
+margin: 0 auto;
+   background-color:rgba(228, 246, 128, 0.83) ;
+    height: 100px;
+    border-bottom: 2px solid rgb(178, 156, 156);
+ }
+
+ footer ul li{
+    list-style: none;
+ }
+
+ .link-footer a{
+    margin: 0 10px 0 0;
+    display:inline;
+   
+ }
+
+ .bi-whatsapp{
+    color: green;
+    font-size: 2em;
+    margin: 0 10px 0 0 ;
+ }
+
+ .bi-instagram{
+    color: rgb(233, 86, 18);
+    font-size: 2em;
+    margin: 0 10px 0 0 ;
+ }
+
+ .bi-facebook {
+    color: rgb(63, 149, 240);
+    font-size: 2em;
+    margin: 0 10px 0 0 ;
+ }
+
+
+/* Dragon ball */
+
+
+ #nav-dragon-ball{
+   color: #fff;
+background: url(../img/imgd.capa10.png);
+   height: 250px;
+ }
+
+#direita-dra ul li {
+   border: 3px solid red;
+   float: right;
+   margin-right: auto;
+}
+
+.cor-nav-d{
+   background-color: blue;
+
+}
+
+.index-direita{
+   margin-left: auto;
+}
