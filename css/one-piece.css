@@ -1,0 +1,18 @@
+.cor-nav-d{
+    background-color: rgb(68, 180, 245);
+}
+
+.direitaone{
+    margin-left: auto;
+   
+    
+}
+
+.direitaone a{
+    margin: 0 10px 0 0;
+    border: 2px solid red;
+    color: #000;
+    font-size: 1.6em;
+    border-radius: 2em;
+    background-color: rgba(255, 0, 0, 0.427);
+}
