@@ -1,0 +1,7 @@
+@media (max-width:430px){
+    .tamanho-foto1 img{
+        width: 550px;
+        height: 180px;
+        margin:5px;
+    }
+}
