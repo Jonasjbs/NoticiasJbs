@@ -1,4 +1,15 @@
 
+/* index */
+
+#body-index{
+   background: linear-gradient(  #030002,#370421d4, #550934fe, #9b0909d4);
+}
+
+
+
+
+
+
 
  /* one piece */
 
@@ -21,7 +32,7 @@
 
  footer.footer-one{
    background-color: rgba(68, 160, 214, 0.689);
-   height: 90px;
+   height: 150px;
  }
 
 
@@ -31,153 +42,105 @@
  /* Objetos */
  /* foto-kyka */
 
- #body{
-   /* background-color: rgba(171, 220, 235, 0.547); */
-   background: linear-gradient( rgba(162, 27, 27, 0.83), rgba(14, 14, 209, 0.611));
+ .nav-kyka{
+   background: linear-gradient(  #470e33,#b92679d4);
+   height: 80px;
+  
+ }
+
+.cor-nav-texto a{
+   color:rgb(225, 84, 84);
 }
 
-#body-kyka{
-   background: linear-gradient(  rgba(201, 226, 115, 0.836), rgba(239, 123, 191, 0.649));
+.cor-nav-textooo{
+color:#fff ;
 }
 
-.direita-kyka{
-   margin-left: auto;
-   font-size: 1.4em;
+.background-1{
+background: linear-gradient(  #7c1957,#b92679d4);
 }
 
 .ka{
    color: #fff;
-   font-size: 1.3em;
-   border-bottom: 4px solid #fff;
+   font-size: 1.5em;
 }
 
-.cor-nav-k{
-background-color: rgba(218, 119, 167, 0.611);
-height: 170px;
+.tamanho-foto1 img{
+width: 450px;
+height: 350px;
 }
 
-.card-k.card{
-   background: linear-gradient( rgba(228, 246, 128, 0.83), rgba(218, 119, 167, 0.611));
-   box-shadow: 1px 5px 5px 1px #fff;
-   margin: 5px;
-   
+.tamanho-foto2 img{
+   width: 450px;
+height: 350px;
 }
 
-.card-ka.card{
-   background-color: rgba(249, 249, 154, 0.864);
-   border-radius: 2em 0em 2em 0em;
-   box-shadow: 4px 6px 3px 3px #49530b88;
-   margin: 8px;
-   border: 1px solid #fff;
+.body-kyka{
+   background: linear-gradient(  #200115,#47052ad4, #550934fe, #560533d4);
 }
 
-.card-ka img{
-   border-radius: 4em;
-   border: 3px solid #fff;
-
+.footer-kyka{
+   margin-top: 10px;
+   line-height: 50px;
+   background: linear-gradient(  #7c1957,#b92679d4);
+   height:50px;
 }
 
-h2.h2-row{
-   border-bottom: 2px solid #fff;
-   margin-top: 2px;
-   text-transform: uppercase;
-   font-family: Arial, Helvetica, sans-serif;
+.card-kyka{
+   background: linear-gradient(  #7c1957,#b92679d4);
    color: #fff;
 }
 
+.Noticia-kyka{
+   color: #fff;
+}
 
+.command-kyka{
+   color: #000;
+   font-size: 1.7em;
+   margin-right: 5px;
+}
 
+.bi-images-kyka{
+  
+   margin-right: 8px;
+   color: #fff;
+   font-size: 40px;
+}
 
- .mover-1{
-    font-size: 5em;
-    padding: 5px 0 0 230px;
-    color: rgba(255, 0, 0, 0.232);
- }
-
-
- .mover-2{
-   padding: 0 255px 70px 0 ;
-    font-size: 7em;
-    color: rgba(255, 255, 0, 0.233);
- }
-
-
- .mover-3{
-    font-size: 5em;
-    color: rgba(255, 192, 203, 0.34);
-
- }
- 
- .mover-11{
-    font-size: 5em;
-    padding: 5px 0 0 230px;
-    color: rgba(255, 0, 255, 0.301);
- }
-
-
- .mover-22{
-   padding: 0 255px 70px 0 ;
-    font-size: 3em;
-    color:rgba(172, 255, 47, 0.311);
- }
-
-
- .mover-33{
-    font-size: 3em;
-    color:rgba(137, 43, 226, 0.24);
-    
- }
-
- 
- 
-
- #footer-kyka{
-    line-height: 100px;
-margin: 0 auto;
-   background-color:rgba(246, 152, 128, 0.684) ;
-    height: 100px;
-    border-bottom: 2px solid rgb(178, 156, 156);
- }
-
- footer ul li{
-    list-style: none;
- }
-
- .link-footer a{
-    margin: 0 10px 0 0;
-    display:inline;
+.img-imagem{
    
- }
+   color: #fff;
+   font-size: 20px;
+}
 
- .bi-whatsapp{
-    color: green;
-    font-size: 2em;
-    margin: 0 10px 0 0 ;
- }
+.footer-kyka a{
+   font-size: 2em;
+   margin-left: 10px;
+}
 
- .bi-instagram{
-    color: rgb(233, 86, 18);
-    font-size: 2em;
-    margin: 0 10px 0 0 ;
- }
+.link-icon-ka a{
+ text-decoration: none;
+}
 
- .bi-facebook {
-    color: rgb(63, 149, 240);
-    font-size: 2em;
-    margin: 0 10px 0 0 ;
- }
+.bi-house{
+   color: #fff;
+}
 
+.bi-hand-index{
+   color: yellow;
+}
 
+.galeria{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   color:#fff;
+   background: linear-gradient(  #7c1957,#b92679d4);
+}
 
-
-
-
-
-
-
-
-
-
+.texto-galeria{
+   color: #b0c08e;
+}
 
 
 /* Dragon ball */
