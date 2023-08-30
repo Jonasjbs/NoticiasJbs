@@ -1,59 +1,9 @@
 
-#body{
-    /* background-color: rgba(171, 220, 235, 0.547); */
-    background: linear-gradient( rgba(162, 27, 27, 0.83), rgba(14, 14, 209, 0.611));
-}
-
-#body-kyka{
-    background: linear-gradient(  rgba(201, 226, 115, 0.836), rgba(239, 123, 191, 0.649));
-}
-
-
-.ka{
-    color: #fff;
-    font-size: 1.3em;
-    border-bottom: 4px solid #fff;
-}
-
-.cor-nav-k{
-background-color: rgba(218, 119, 167, 0.611);
-}
-
-.card-k.card{
-    background: linear-gradient( rgba(228, 246, 128, 0.83), rgba(218, 119, 167, 0.611));
-    box-shadow: 1px 5px 5px 1px #fff;
-    margin: 5px;
-    
-}
-
-.card-ka.card{
-    background-color: rgba(249, 249, 154, 0.864);
-    border-radius: 2em 0em 2em 0em;
-    box-shadow: 4px 6px 3px 3px #49530b88;
-    margin: 8px;
-    border: 1px solid #fff;
-}
-
-.card-ka img{
-    border-radius: 4em;
-    border: 3px solid #fff;
-
-}
-
- h2.h2-row{
-    border-bottom: 2px solid #fff;
-    margin-top: 2px;
-    text-transform: uppercase;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #fff;
- }
-   
-
 
  /* one piece */
 
  #nav-one.navbar{
-   background-color: rgba(214, 68, 68, 0.689);
+   background-color: rgba(68, 160, 214, 0.689);
  }
 
  #block-one img{
@@ -69,56 +19,122 @@ background-color: rgba(218, 119, 167, 0.611);
     display: inline;
  }
 
+ footer.footer-one{
+   background-color: rgba(68, 160, 214, 0.689);
+   height: 90px;
+ }
+
+
+
+
 
  /* Objetos */
+ /* foto-kyka */
+
+ #body{
+   /* background-color: rgba(171, 220, 235, 0.547); */
+   background: linear-gradient( rgba(162, 27, 27, 0.83), rgba(14, 14, 209, 0.611));
+}
+
+#body-kyka{
+   background: linear-gradient(  rgba(201, 226, 115, 0.836), rgba(239, 123, 191, 0.649));
+}
+
+.direita-kyka{
+   margin-left: auto;
+   font-size: 1.4em;
+}
+
+.ka{
+   color: #fff;
+   font-size: 1.3em;
+   border-bottom: 4px solid #fff;
+}
+
+.cor-nav-k{
+background-color: rgba(218, 119, 167, 0.611);
+height: 170px;
+}
+
+.card-k.card{
+   background: linear-gradient( rgba(228, 246, 128, 0.83), rgba(218, 119, 167, 0.611));
+   box-shadow: 1px 5px 5px 1px #fff;
+   margin: 5px;
+   
+}
+
+.card-ka.card{
+   background-color: rgba(249, 249, 154, 0.864);
+   border-radius: 2em 0em 2em 0em;
+   box-shadow: 4px 6px 3px 3px #49530b88;
+   margin: 8px;
+   border: 1px solid #fff;
+}
+
+.card-ka img{
+   border-radius: 4em;
+   border: 3px solid #fff;
+
+}
+
+h2.h2-row{
+   border-bottom: 2px solid #fff;
+   margin-top: 2px;
+   text-transform: uppercase;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #fff;
+}
+
+
+
 
  .mover-1{
     font-size: 5em;
     padding: 5px 0 0 230px;
-    color: red;
+    color: rgba(255, 0, 0, 0.232);
  }
 
 
  .mover-2{
    padding: 0 255px 70px 0 ;
     font-size: 7em;
-    color: yellow;
+    color: rgba(255, 255, 0, 0.233);
  }
 
 
  .mover-3{
     font-size: 5em;
-    color: pink;
+    color: rgba(255, 192, 203, 0.34);
 
  }
  
  .mover-11{
     font-size: 5em;
     padding: 5px 0 0 230px;
-    color: fuchsia;
+    color: rgba(255, 0, 255, 0.301);
  }
 
 
  .mover-22{
    padding: 0 255px 70px 0 ;
     font-size: 3em;
-    color:greenyellow;
+    color:rgba(172, 255, 47, 0.311);
  }
 
 
  .mover-33{
     font-size: 3em;
-    color:blueviolet;
+    color:rgba(137, 43, 226, 0.24);
     
  }
 
- /* foto-kyka */
+ 
  
 
- footer{
+ #footer-kyka{
     line-height: 100px;
 margin: 0 auto;
-   background-color:rgba(228, 246, 128, 0.83) ;
+   background-color:rgba(246, 152, 128, 0.684) ;
     height: 100px;
     border-bottom: 2px solid rgb(178, 156, 156);
  }
@@ -258,14 +274,23 @@ color: #ecf80e;
 
 .bi-instagram{
     color: orangered;
+    font-size: 1em;
 }
 
 .bi-whatsapp{
     color: green;
+    font-size: 1em;
 }
 
 .bi-telegram{
     color: blue;
+}
+
+
+/* Quem Somos  */
+
+.nav-jonas{
+   background-color: #a6989881;
 }
 
 
@@ -305,3 +330,87 @@ color: #ecf80e;
    border-radius: 2em;
    background-color: rgba(255, 0, 0, 0.427);
 }
+
+#one-piece{
+   background-color: rgba(68, 180, 245, 0.707);
+}
+
+/* Quem Somos */
+
+#cor-quem-somos{
+   background: linear-gradient(#1b061b,#1d0a26,#2f0a2f);
+}
+
+.nav-jon{
+   background: linear-gradient(#EE82EE,#BA55D3,#8B008B);
+}
+
+.command-jo{
+   color:#FFF;
+   font-size: 4em;
+   margin: 0 15px 0 0;
+}
+
+.direita-jon{
+   margin-left: auto;
+}
+
+.Jon{
+   color: #f00a0a;
+   font-size: 2em;
+}
+
+.Jonz{
+   color: #f70909;
+   font-size: 2em;
+}
+
+.h2-jo{
+   color: #fff;
+}
+
+.img-col1{
+   color: #fff;
+   background: linear-gradient(#370e37,#290f34,#481048);
+   border-radius: 3em;
+}
+
+.img-col1 img{
+   margin-top: 24px;
+   padding: 10px;
+   border-radius: 3em;
+}
+
+#Img-foto{
+background: linear-gradient(#EE82EE,#BA55D3,#8B008B);
+   border-radius: 3em;
+   margin: 0 auto;
+   width: 380px;
+   height: 330px;
+   border: 1px solid #fff;
+}
+
+.footer-jonas{
+   height: 60px;
+   border-top: 1px solid #ee82ee40 ;
+   background: linear-gradient(#2c082c,#431559,#551155);
+}
+
+.footer-jonas, .bi-whatsapp .bi-instagram .bi-telegram{
+font-size: 2em;
+}
+
+p.p-texto{
+   color: #ccbbbbb0;
+   font-size: 20px;
+   background: linear-gradient(#992b99,#76228b,#370537);
+}
+
+.col-texto{
+  
+   }
+
+   .texto-h2{
+      color: #ccbbbbb0;
+      border-bottom: 1px solid #ee82ee40 ;
+   }
