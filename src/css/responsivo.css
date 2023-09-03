@@ -5,10 +5,6 @@
    background: linear-gradient(  #030002,#370421d4, #550934fe, #9b0909d4);
 }
 
-.div-col{
-   width: 300px;
-   background-color: #a9f62e;
-}
 
 
 
@@ -40,7 +36,7 @@
 
 
 
-
+/* atualizado!! */
 
  /* Objetos */
  /* foto-kyka */
@@ -363,7 +359,7 @@ color: #ecf80e;
 background: linear-gradient(#EE82EE,#BA55D3,#8B008B);
    border-radius: 3em;
    margin: 0 auto;
-   width: 380px;
+   width: 330px;
    height: 330px;
    border: 1px solid #fff;
 }
