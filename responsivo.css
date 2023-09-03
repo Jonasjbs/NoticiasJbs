@@ -1,0 +1,390 @@
+
+/* index */
+
+#body-index{
+   background: linear-gradient(  #030002,#370421d4, #550934fe, #9b0909d4);
+}
+
+
+
+
+
+
+ /* one piece */
+
+ #nav-one.navbar{
+   background-color: rgba(68, 160, 214, 0.689);
+ }
+
+ #block-one img{
+    margin:0 auto;
+    width: 300px;
+    height:200px;
+    margin: 3px;
+    
+
+ }
+
+ #block-one li{
+    display: inline;
+ }
+
+ footer.footer-one{
+   background-color: rgba(68, 160, 214, 0.689);
+   height: 150px;
+ }
+
+
+
+/* atualizado!! */
+
+ /* Objetos */
+ /* foto-kyka */
+
+ .nav-kyka{
+   background: linear-gradient(  #470e33,#b92679d4);
+   height: 80px;
+  
+ }
+
+.cor-nav-texto a{
+   color:rgb(225, 84, 84);
+}
+
+.cor-nav-textooo{
+color:#fff ;
+}
+
+.background-1{
+background: linear-gradient(  #7c1957,#b92679d4);
+}
+
+.ka{
+   color: #fff;
+   font-size: 1.5em;
+}
+
+.tamanho-foto1 img{
+width: 450px;
+height: 350px;
+}
+
+.tamanho-foto2 img{
+   width: 450px;
+height: 350px;
+}
+
+.body-kyka{
+   background: linear-gradient(  #200115,#47052ad4, #550934fe, #560533d4);
+}
+
+.footer-kyka{
+   margin-top: 10px;
+   line-height: 50px;
+   background: linear-gradient(  #7c1957,#b92679d4);
+   height:50px;
+}
+
+.card-kyka{
+   background: linear-gradient(  #7c1957,#b92679d4);
+   color: #fff;
+}
+
+.Noticia-kyka{
+   color: #fff;
+}
+
+.command-kyka{
+   color: #fff;
+   font-size: 1.7em;
+   margin-right: 5px;
+}
+
+.bi-images-kyka{
+  
+   margin-right: 8px;
+   color: #fff;
+   font-size: 40px;
+}
+
+.img-imagem{
+   
+   color: #fff;
+   font-size: 20px;
+}
+
+.footer-kyka a{
+   font-size: 2em;
+   margin-left: 10px;
+}
+
+.link-icon-ka a{
+ text-decoration: none;
+}
+
+.bi-house{
+   color: #fff;
+}
+
+.bi-hand-index{
+   color: yellow;
+}
+
+.galeria{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   color:#fff;
+   background: linear-gradient(  #7c1957,#b92679d4);
+}
+
+.texto-galeria{
+   color: #b0c08e;
+}
+
+
+/* Dragon ball */
+
+
+ #nav-dragon-ball{
+   color: #fff;
+background: url(../img/imgd.capa10.png);
+   height: 250px;
+ }
+
+#direita-dra ul li {
+   border: 3px solid red;
+   float: right;
+   margin-right: auto;
+}
+
+.cor-nav-d{
+   background-color: blue;
+
+}
+
+.index-direita{
+   margin-left: auto;
+  
+}
+
+
+.index-direita a{
+   color: #fff;
+  
+}
+
+
+
+.cor-nav-d{
+    background-color: black;
+    height: 250px;
+    background: url(../img/imgd.capa10.png);
+}
+
+.direitad{
+    margin-left: auto;
+  
+}
+
+.direitad a{
+    display:block;
+    color:yellow;
+    font-size: 1.3em;
+    border: 3px solid #ffffffa7;
+    margin: 0 10px 0 0 ;
+    border-radius: 1em;
+    background-color: rgba(0, 123, 255, 0.588);
+    
+}
+
+
+.container-dra{
+    background: url(../img/dra1.jpg);
+}
+
+.cor-drand{
+    color: #ecf80e;
+    margin-left: 10px;
+    margin-bottom: 5px;
+  
+}
+
+.cor-z{
+    color: orange;
+  font-size: 2em;
+}
+
+
+ .card.cor-card{
+    background-color: rgba(180, 233, 81, 0.363);
+    color: #fff;
+    font-size: 25.7px;
+}
+
+#footer-dra{
+   background-color: rgba(245, 253, 20, 0.488);
+    color:#fff;
+}
+
+.footer-link a{
+    font-size: 3em;
+    margin: 0 10px 0 0 ;
+}
+
+.paw{
+    color: rgb(101, 239, 120);
+    font-size: 1.4em;
+}
+
+.niveis{
+border-bottom: 2px solid #ecf80e3c;
+color: #ecf80e;
+}
+
+.bi-instagram{
+    color: orangered;
+    font-size: 1em;
+}
+
+.bi-whatsapp{
+    color: green;
+    font-size: 1em;
+}
+
+.bi-telegram{
+    color: blue;
+}
+
+
+/* Quem Somos  */
+
+.nav-jonas{
+   background-color: #a6989881;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* One piece */
+
+#cor-nav-ky{
+   background-color: #7c1957;
+
+}
+
+.nav-one{
+   background-color: rgb(68, 180, 245);
+}
+
+.direitaone{
+   margin-left: auto;
+  
+   
+}
+
+.direitaone a{
+   margin: 0 10px 0 0;
+   border: 2px solid red;
+   color: #000;
+   font-size: 1.6em;
+   border-radius: 2em;
+   background-color: rgba(255, 0, 0, 0.427);
+}
+
+#one-piece{
+   background-color: rgba(68, 180, 245, 0.707);
+}
+
+/* Quem Somos */
+
+#cor-quem-somos{
+   background: linear-gradient(#1b061b,#1d0a26,#2f0a2f);
+}
+
+.nav-jon{
+   background: linear-gradient(#EE82EE,#BA55D3,#8B008B);
+}
+
+.command-jo{
+   color:#FFF;
+   font-size: 4em;
+   margin: 0 15px 0 0;
+}
+
+.direita-jon{
+   margin-left: auto;
+}
+
+.Jon{
+   color: #f00a0a;
+   font-size: 2em;
+}
+
+.Jonz{
+   color: #f70909;
+   font-size: 2em;
+}
+
+.h2-jo{
+   color: #fff;
+}
+
+.img-col1{
+   color: #fff;
+   background: linear-gradient(#370e37,#290f34,#481048);
+   border-radius: 3em;
+}
+
+.img-col1 img{
+   margin-top: 24px;
+   padding: 10px;
+   border-radius: 3em;
+}
+
+#Img-foto{
+background: linear-gradient(#EE82EE,#BA55D3,#8B008B);
+   border-radius: 3em;
+   margin: 0 auto;
+   width: 330px;
+   height: 330px;
+   border: 1px solid #fff;
+}
+
+.footer-jonas{
+   height: 60px;
+   border-top: 1px solid #ee82ee40 ;
+   background: linear-gradient(#2c082c,#431559,#551155);
+}
+
+.footer-jonas, .bi-whatsapp .bi-instagram .bi-telegram{
+font-size: 2em;
+}
+
+p.p-texto{
+   color: #ccbbbbb0;
+   font-size: 20px;
+   background: linear-gradient(#992b99,#76228b,#370537);
+}
+
+.col-texto{
+  
+   }
+
+   .texto-h2{
+      color: #ccbbbbb0;
+      border-bottom: 1px solid #ee82ee40 ;
+   }
