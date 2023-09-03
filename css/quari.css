@@ -1,7 +1,16 @@
-@media (max-width:430px){
+/* @media (max-width:430px){
     .tamanho-foto1 img{
         width: 550px;
         height: 180px;
         margin:5px;
     }
-}
+} */
+
+
+ @media (max-width:360px){
+    #Img-foto{
+        width: 300px;
+        border: 4px solid fuchsia;
+    
+    }
+    }
