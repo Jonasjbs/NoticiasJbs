@@ -5,7 +5,10 @@
    background: linear-gradient(  #030002,#370421d4, #550934fe, #9b0909d4);
 }
 
-
+.div-col{
+   width: 300px;
+   background-color: #a9f62e;
+}
 
 
 
@@ -96,7 +99,7 @@ height: 350px;
 }
 
 .command-kyka{
-   color: #000;
+   color: #fff;
    font-size: 1.7em;
    margin-right: 5px;
 }
@@ -165,6 +168,13 @@ background: url(../img/imgd.capa10.png);
 
 .index-direita{
    margin-left: auto;
+  
+}
+
+
+.index-direita a{
+   color: #fff;
+  
 }
 
 
@@ -274,6 +284,11 @@ color: #ecf80e;
 
 
 /* One piece */
+
+#cor-nav-ky{
+   background-color: #7c1957;
+
+}
 
 .nav-one{
    background-color: rgb(68, 180, 245);
